@@ -474,7 +474,7 @@ footer {
     body {
         background-image: url("./images/top\ rectangle.png"), url("./images/bottom\ rectangle.png");
         background-repeat: no-repeat;
-        background-position-x: 1300px, 0px;
+        background-position-x: 100%, 0px;
         background-position-y: 170px, 862px;
     }
 
